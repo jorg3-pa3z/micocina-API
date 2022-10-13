@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "micocina-API", "micocina-API\micocina-API.csproj", "{D3ECDA48-808E-46F3-95B9-19C96CB8975D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "micocina-API-UnitTests", "micocina-API-UnitTests\micocina-API-UnitTests.csproj", "{8925C27E-1906-4714-B907-216F9C735902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3ECDA48-808E-46F3-95B9-19C96CB8975D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3ECDA48-808E-46F3-95B9-19C96CB8975D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3ECDA48-808E-46F3-95B9-19C96CB8975D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3ECDA48-808E-46F3-95B9-19C96CB8975D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8925C27E-1906-4714-B907-216F9C735902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8925C27E-1906-4714-B907-216F9C735902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8925C27E-1906-4714-B907-216F9C735902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8925C27E-1906-4714-B907-216F9C735902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B23DD78D-C869-4D9E-ADBF-C76490FD0791}
+	EndGlobalSection
+EndGlobal
